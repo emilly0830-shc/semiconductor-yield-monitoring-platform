@@ -1,0 +1,14 @@
+{
+"mcpServers": {
+"tableau": {
+"command": "npx",
+"args": ["-y", "@tableau/mcp-server@latest"],
+"env": {
+"SERVER": "https://your-site.online.tableau.com",
+"SITE_NAME": "your-site-name",
+"PAT_NAME": "your-pat-name",
+"PAT_VALUE": "your-pat-secret"
+}
+}
+}
+}
