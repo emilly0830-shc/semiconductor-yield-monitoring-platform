@@ -1,35 +1,30 @@
 # AI-Powered Semiconductor Yield Monitoring Platform
 
-## Overview
+An end-to-end analytics solution built with Snowflake, Tableau, and Claude AI.
 
-Built an end-to-end analytics solution using Snowflake, Tableau, and Claude AI to identify semiconductor yield risks before end-of-line testing.
+## Dashboard Preview
+
+![Dashboard](demo/dashboard.png)
+
+## AI Chatbot Interface
+
+![Chatbot](demo/chatbot_webpage.png)
+
+## Claude Integration
+
+![Claude Chatbot](demo/claude_chatbot.png)
 
 ## Tech Stack
 
 - Snowflake
-- SQL
 - Tableau Cloud
 - Claude AI
-- HTML
 - Python
-
-## Key Features
-
-### Yield Monitoring Dashboard
-
-- Yield Trend Analysis
-- Sensor Drift Detection
-- Statistical Process Control (SPC)
-- Failure Analysis
-
-### AI Process Intelligence Assistant
-
-- Natural language querying
-- Root-cause investigation
-- Manufacturing insight generation
+- HTML
 
 ## Project Assets
 
-- Dashboard Screenshot
-- AI Chatbot Demo
+- Interactive Dashboard
+- AI Chatbot
+- Snowflake Analytics Pipeline
 - Final Presentation
